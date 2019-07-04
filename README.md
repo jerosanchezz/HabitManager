@@ -1,6 +1,6 @@
-# HabitManager
+# Habits Tracker
 
-HabitManager: the simplest and most effective way to help you develop habits
+Habits Tracker: the simplest and most effective way to help you develop habits
 
 
 It can do:
