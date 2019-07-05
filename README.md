@@ -1,6 +1,6 @@
-# Habits Tracker
+# Habits - TimeManger
 
-Habits Tracker: the simplest and most effective way to help you develop habits
+Habits - TimeManger: the simplest and most effective way to help you develop habits
 
 
 It can do:
@@ -14,9 +14,9 @@ It can do:
 - The order of today's tasks can be dragged at will
 - Set daily habit update time
 
-# Contact Us
+# Contact Me
 
-If you have any questions or suggestions about our app, do not hesitate to contact us.
+If you have any questions or suggestions about my app, do not hesitate to contact me.
 
 Email: fxiaoding@gmail.com
 
