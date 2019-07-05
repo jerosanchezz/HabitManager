@@ -1,10 +1,5 @@
 # Habits - TimeManger
 
-Habits - TimeManger: the simplest and most effective way to help you develop habits
-
-
-It can do:
-
 - Intuitive add habits
 - Remind you why you should form this habit
 - Assign custom execution time every day
